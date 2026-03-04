@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ThreadScale
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: threadscale
+cod:
+  demo:
+    file: D:\\Code PlayGround\\Learning\\Spring Boot Project\\ThreadScale\\Files\\TestFile.txt
